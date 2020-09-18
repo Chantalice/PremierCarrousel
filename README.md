@@ -1,2 +1,3 @@
 # PremierCarrousel
-Mon premier carrousel en javascript... Manque sans doute le responsive, la possibilité d'arrêter/reprendre les animations, la possibilité d'afficher la miniature sélectionnée à la place de l'image en cours dans le slider.
+Mon premier carrousel en javascript... Manquent  sans doute le responsive, la possibilité de contrôler les animation (play/pause) et l'affiche des miniatures à la place de l'image en cours dans le slider.
+Je débute,  4 jours pour ce premier résultat !
